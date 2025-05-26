@@ -37,7 +37,7 @@ const Register = ({ setUser }) => {
 
   return (
     <div>
-      <h2>Register</h2>
+      <h2>Register Romaisha Wanhsbdefhegfhbj</h2>
       {error && <p style={{ color: 'red' }}>{error}</p>}
       <form onSubmit={handleSubmit}>
         <input name="name" placeholder="Name" onChange={handleChange} required />
